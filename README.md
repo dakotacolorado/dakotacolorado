@@ -15,13 +15,13 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 
 ## 📂 Project Portfolio
 
-### 🔍 Data Science & 🤖 Machine Learning
+### 🤖 Machine Learning & 🔍 Data Science
+
+- **Machine Learning**: [🔥 PyTorchPlayground](https://github.com/dakotacolorado/PyTorchPlayground)  
+  Navigate through the depths of PyTorch, exploring tensors, gradients, and neural networks, with insights and learnings documented through Jupyter notebooks and reflections.
 
 - **Data Science**: [🎵 SpotifyDataDrivenPlaylists](https://github.com/dakotacolorado/SpotifyDataDrivenPlaylists)  
   Transformed raw Spotify track data into harmonious playlists through data normalization, PCA application, and song clustering, utilizing SciPy, sklearn, and Seaborn, and documented with Jupyter notebooks.
-  
-- **Machine Learning**: [🔥 PyTorchPlayground](https://github.com/dakotacolorado/PyTorchPlayground)  
-  Navigate through the depths of PyTorch, exploring tensors, gradients, and neural networks, with insights and learnings documented through Jupyter notebooks and reflections.
 
 ### 🗣️ Chat GPT Bots
 
