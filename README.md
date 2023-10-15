@@ -1,7 +1,7 @@
 # 🙌 Welcome, I'm Dakota
 
 ## ℹ️ About Me
-As a **Software Engineer** with a solid foundation in **Applied Mathematics**, I have accumulated varied experiences in **Data Science** and **Data Engineering** over five years in the industry. My work is where my admiration for mathematics and data converges with engineering, producing innovative and quantitatively sound software solutions.
+I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable experience in **Data Science** and **Data Engineering**. Bringing five years of industry experience, I merge my appreciation for mathematics and data with engineering to develop quantitatively robust and innovative software solutions.
 
 🎓 **Education**: BS in Applied Mathematics, minor in Physics & Computer Science
 
@@ -34,7 +34,7 @@ As a **Software Engineer** with a solid foundation in **Applied Mathematics**, I
   Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
 ### 🎲 Additional Projects
 
-Feel free to explore my repositories to uncover projects embodying my fusion of mathematical and engineering prowess.
+Delve into my repositories to explore a range of projects that showcase my blend of mathematical and engineering skills.
 
 ## 🏢 Professional Journey
 
@@ -51,8 +51,8 @@ My GitHub reflects a curated selection of my technical and creative projects. Wh
 
 ## 🤝 Idea Collaboration
 
-I'm always open to collaborative projects and meaningful discussions. Please explore my repositories and don't hesitate to reach out if you wish to discuss ideas or potential collaborative innovations.
+I'm always open to collaborative projects and meaningful discussions. Please explore my repositories and don't hesitate to reach out if you wish to discuss ideas or potential collaborations.
 
 ---
 
-_🚀 Bridging Innovations with Mathematics and Engineering_
+_⚡ Powering Innovations with Mathematics and Engineering_
