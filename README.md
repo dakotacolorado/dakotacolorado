@@ -15,7 +15,7 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 
 ## 📂 Project Portfolio
 
-### 🧠 Machine Learning & 🔎 Data Science
+### 🔎 Machine Learning & Data Science
 
 - **Machine Learning**: [🔥 PyTorchPlayground](https://github.com/dakotacolorado/PyTorchPlayground)  
   Exploration and documentation of learnings in PyTorch, focusing on tensors, gradients, and neural networks through Jupyter notebooks.
