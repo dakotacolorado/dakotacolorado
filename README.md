@@ -3,7 +3,7 @@
 ## ℹ️ About Me
 I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable experience in **Data Science** and **Data Engineering**. Bringing five years of industry experience, I merge my appreciation for mathematics and data with engineering to develop quantitatively robust and innovative software solutions.
 
-🎓 **Education**: Degree in Applied Mathematics, minor in Physics & Computer Science
+🎓 **Education**: BS Degree in Applied Mathematics, minor in Physics & Computer Science
 
 ## 🧠 Technical Skills & Expertise
 
