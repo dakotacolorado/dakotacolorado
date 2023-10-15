@@ -31,8 +31,7 @@ As a **Software Engineer** with a solid foundation in **Applied Mathematics**, I
 ### 🛠️ Software Engineering
 
 - **Game Engine Development**: [⚙️ ChineseCheckersGameEngine (Python)](https://github.com/dakotacolorado/ChineseCheckersGameEngine)  
-  Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in Julia, Scala, and Python.
-
+  Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
 ### 🎲 Additional Projects
 
 Feel free to explore my repositories to uncover projects embodying my fusion of mathematical and engineering prowess.
