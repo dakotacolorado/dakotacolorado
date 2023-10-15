@@ -21,7 +21,7 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
   Exploration and documentation of learnings in PyTorch, focusing on tensors, gradients, and neural networks through Jupyter notebooks.
 
 - **Data Science**: [🎵 SpotifyDataDrivenPlaylists](https://github.com/dakotacolorado/SpotifyDataDrivenPlaylists)  
-  Engaged in data normalization, PCA application, and song clustering using SciPy, sklearn, and Seaborn, with documentation via Jupyter notebooks.
+  Engaged in data normalization, principal component analysis, and song clustering using SciPy, sklearn, and Seaborn, with documentation via Jupyter notebooks.
 
 ### 🗣️ Chat GPT Bots
 
