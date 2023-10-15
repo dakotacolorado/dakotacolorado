@@ -42,7 +42,7 @@ Delve into my repositories to explore a range of projects that showcase my blend
 ## 🏢 Professional Journey
 
 - **Current**: Software Engineer, crafting scalable & robust software solutions in the cloud.
-- **Previously**: Embarked on a journey through Data Science and Data Engineering in the Financial Services sector.
+- **Previously**: Spent time working in Data Science and Data Engineering within the Financial Services sector.
 
 ## 🎯 Objectives & Future Plans
 
