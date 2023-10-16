@@ -15,6 +15,11 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 
 ## 📂 Project Portfolio
 
+### 🛠️ Software Engineering
+
+- **Game Engine Development**: [⚙️ ChineseCheckersGameEngine (Python)](https://github.com/dakotacolorado/ChineseCheckersGameEngine)  
+  Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
+  
 ### 🔎 Machine Learning & Data Science
 
 - **Machine Learning**: [🔥 PyTorchPlayground](https://github.com/dakotacolorado/PyTorchPlayground)  
@@ -28,10 +33,6 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 - **ChatGPTBotForge**: [🤖 ChatGPTBotForge](https://github.com/dakotacolorado/ChatGPTBotForge)  
   Develop and utilize specialized ChatGPT bots for personalized Discord experiences, featuring Chef Woof 🍗 and other unique virtual companions.
 
-### 🛠️ Software Engineering
-
-- **Game Engine Development**: [⚙️ ChineseCheckersGameEngine (Python)](https://github.com/dakotacolorado/ChineseCheckersGameEngine)  
-  Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
 ### 🎲 Additional Projects
 
 Delve into my repositories to explore a range of projects that showcase my blend of mathematical and engineering skills.
