@@ -8,7 +8,7 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 ## 🧠 Technical Skills & Expertise
 
 - **Languages**: Python 🐍, TypeScript, Java, Julia, Scala, Ruby
-- **Technologies**: AWS ☁️, GPT API, Discord API, PyTorch, Numpy, Pandas, Jupyter, Scipy, Matplotlib, Seaborn
+- **Technologies**: AWS ☁️, PyTorch, Numpy, Pandas, Jupyter, Scipy, Matplotlib, Seaborn, GPT API
 - **Web Development**: Vue.js, D3
 - **Data**: Data Lakes/Warehouses, Feature Engineering, Relational Modeling
 - **Mathematics**: Linear Algebra, Statistics, Numerical Methods
