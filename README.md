@@ -17,8 +17,13 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 
 ### 🛠️ Software Engineering
 
-- **Game Engine Development**: [⚙️ ChineseCheckersGameEngine (Python)](https://github.com/dakotacolorado/ChineseCheckersGameEngine)  
-  Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
+- **Game Engine Development**: [⚙️ ChineseCheckersGameEngine (Python)](https://github.com/dakotacolorado/ChineseCheckersGameEngine)
+  - Comprehensive engine for game initialization, move validation, and visually rendering the hexagram board state.
+  - Advanced game mechanics achieved using geometry and linear algebra concepts.
+  - Inclusive of machine learning model integration for optimizing gameplay strategies.
+  - Simulation capabilities to conduct matches between different game models, complete with animation visualizations for in-depth gameplay analysis.
+  - Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
+
   
 ### 🔎 Machine Learning & Data Science
 
