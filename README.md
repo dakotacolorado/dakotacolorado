@@ -8,8 +8,9 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 ## 🧠 Technical Skills & Expertise
 
 - **Languages**: Python 🐍, TypeScript, Java, Julia, Scala, Ruby
-- **Technologies**: AWS ☁️, PyTorch, Numpy, Pandas, Jupyter, Scipy, Matplotlib, Seaborn, GPT API
+- **Technologies**: AWS ☁️, Pandas, Seaborn, PyTorch, scikit-learn, GPT API
 - **Web Development**: Vue.js, D3
+- **Software**: Test Driven Development, API Design, CI/CD Pipelines, Infrastructure as Code
 - **Data**: Data Lakes/Warehouses, Feature Engineering, Relational Modeling
 - **Mathematics**: Linear Algebra, Statistics, Numerical Methods
 
@@ -18,11 +19,9 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
 ### 🛠️ Software Engineering
 
 - **Game Engine Development**: [⚙️ ChineseCheckersGameEngine (Python)](https://github.com/dakotacolorado/ChineseCheckersGameEngine)
-  - Comprehensive engine for game initialization, move validation, and visually rendering the hexagram board state.
-  - Advanced game mechanics achieved using geometry and linear algebra concepts.
-  - Inclusive of machine learning model integration for optimizing gameplay strategies.
-  - Simulation capabilities to conduct matches between different game models, complete with animation visualizations for in-depth gameplay analysis.
-  - Investigated language features and unit testing patterns by developing a Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
+  - Comprehensive engine for game initialization, move identification, and visualization.
+  - Simulation capabilities to conduct games between different game models, complete with animations and simulation cataloging.
+  - Learned language features and unit testing patterns by developing the Chinese Checkers game engine in [Julia](https://github.com/dakotacolorado/ChineseCheckersGameJulia), [Scala](https://github.com/dakotacolorado/ChineseCheckersGameScala), and [Python](https://github.com/dakotacolorado/ChineseCheckersGameEngine).
 
   
 ### 🔎 Machine Learning & Data Science
@@ -31,7 +30,7 @@ I am a **Software Engineer**, grounded in **Applied Mathematics**, with notable 
   Exploration and documentation of learnings in PyTorch, focusing on tensors, gradients, and neural networks through Jupyter notebooks.
 
 - **Data Science**: [🎵 SpotifyDataDrivenPlaylists](https://github.com/dakotacolorado/SpotifyDataDrivenPlaylists)  
-  Engaged in data normalization, principal component analysis, and song clustering using SciPy, sklearn, and Seaborn, with documentation via Jupyter notebooks.
+  Engaged in data normalization, principal component analysis, and song clustering using SciPy and sklearn, with documentation via Jupyter notebooks.
 
 ### 🗣️ Chat GPT Bots
 
@@ -47,18 +46,6 @@ Delve into my repositories to explore a range of projects that showcase my blend
 - **Current**: Software Engineer, specializing in crafting scalable & robust software solutions in the cloud.
 - **Previously**: Worked in Data Science and Data Engineering within the Financial Services sector.
 
-## 🎯 Objectives & Future Plans
-
-My GitHub reflects a curated selection of my technical and creative projects. While I am open to collaborations, my primary focus is on developing and sharing projects that engage my interests. I invite recruiters and developers to explore my work and perhaps find a measure of inspiration along the way.
-
 ## 📧 Contact Information
 
 - LinkedIn: [https://www.linkedin.com/in/dakotaparker/](https://www.linkedin.com/in/dakotaparker/)
-
-## 🤝 Idea Collaboration
-
-I'm always open to collaborative projects and meaningful discussions. Please explore my repositories and don't hesitate to reach out if you wish to discuss ideas or potential collaborations.
-
----
-
-_⚡ Powering Innovations with Mathematics and Engineering_
