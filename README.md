@@ -1,7 +1,7 @@
 # Hello, I'm Dakota
 
 ## About Me
-I am a **Software Engineer** with a foundation in **Applied Mathematics**. Six years of industry experience. I specialize in **Data Science** and **Backend Web Services**. I often work with languages like Java, TypeScript, and Python. As I expand my knowledge in deep learning, I'm actively exploring libraries like PyTorch and TensorFlow.
+I am a **Software Engineer** with a foundation in **Applied Mathematics**. I have six years of industry experience and I specialize in **Data Science** and **Backend Web Services**. I often work with languages like Java, TypeScript, and Python. As I expand my knowledge in deep learning, I'm actively exploring libraries like PyTorch and TensorFlow.
 
 **Education**: BS in Applied Mathematics, minor in Physics & Computer Science
 
